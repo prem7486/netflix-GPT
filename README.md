@@ -76,6 +76,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -Header
 -Login form
 -Sign-up Form
+-Form validation
+-useRef hook
+-firebase Setup
+-Deploying our app to production
+-Create Signup user account
+- impliment Sign-in api
+-Created redux store with userSlice
+-Implemnted Sign-Out
+-Fetch from TMDB Movies
 
 
 # features
@@ -92,4 +101,3 @@ Login/Sign up
 -NetflixGPT
     - Search Bar
     - Movie Suggetions  
-    0+c*/
